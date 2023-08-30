@@ -1,0 +1,417 @@
+comuna,votos,porcentaje,partido,espacio,candidato
+99,476003,28.28,Juntos por el Cambio,jxc,Patricia Bullrich
+99,337179,20.03,Juntos por el Cambio,jxc,Horacio R. Larreta
+99,276905,16.44,Unión por la Patria,up,Sergio Massa
+99,120109,7.13,Unión por la Patria,up,Juan Grabois
+99,299097,17.77,La Libertad Avanza,libertarios,Javier Milei
+99,62247,3.69,FIT-U,izquierda,Myriam Bregman
+99,15759,0.94,FIT-U,izquierda,Gabriel Solano
+99,22233,1.32,Principios y Valores,otros,Guillermo Moreno
+99,15886,0.94,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+99,7198,0.42,Nuevo MAS,izquierda,Manuela Castañeira
+99,4936,0.29,MIJD,otros,Santiago Cúneo
+99,1249,0.07,MIJD,otros,Raúl Castells
+99,4454,0.26,Política Obrera,izquierda,Marcelo Ramal
+99,3754,0.22,Libres del Sur,otros,Jesús Escobar
+99,2715,0.16,Fte. Patriota Federal,otros,César Biondini
+99,2691,0.15,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+99,2230,0.13,Ucedé,otros,Andrés Passamonti
+99,105,0.01,Frente LIBER.AR,otros,Julio Bárbaro
+99,41,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+99,21,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+99,23,0.00,Proyecto Joven,otros,Reina Ibañez
+99,20,0.00,Proyecto Joven,otros,Martín A. Ortiz
+99,18,0.00,Proyecto Joven,otros,Mempo Giardinelli
+99,28143,1.65,Blancos,no,Blancos
+99,16023,0.94,Nulos,no,Nulos
+99,915,0.05,Impugnados,no,Impugnados
+01,31222,29.04,Juntos por el Cambio,jxc,Patricia Bullrich
+01,19074,17.74,Juntos por el Cambio,jxc,Horacio R. Larreta
+01,18060,16.80,Unión por la Patria,up,Sergio Massa
+01,7635,7.10,Unión por la Patria,up,Juan Grabois
+01,20714,19.26,La Libertad Avanza,libertarios,Javier Milei
+01,3413,3.17,FIT-U,izquierda,Myriam Bregman
+01,1088,1.01,FIT-U,izquierda,Gabriel Solano
+01,1389,1.29,Principios y Valores,otros,Guillermo Moreno
+01,970,0.90,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+01,493,0.45,Nuevo MAS,izquierda,Manuela Castañeira
+01,326,0.30,MIJD,otros,Santiago Cúneo
+01,97,0.09,MIJD,otros,Raúl Castells
+01,292,0.27,Política Obrera,izquierda,Marcelo Ramal
+01,263,0.24,Libres del Sur,otros,Jesús Escobar
+01,204,0.18,Fte. Patriota Federal,otros,César Biondini
+01,185,0.17,Ucedé,otros,Andrés Passamonti
+01,170,0.15,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+01,2,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+01,1,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+01,1,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+01,1,0.01,Proyecto Joven,otros,Mempo Giardinelli
+01,1,0.01,Proyecto Joven,otros,Martín A. Ortiz
+01,0,0.00,Proyecto Joven,otros,Reina Ibañez
+01,1888,1.73,Blancos,no,Blancos
+01,1037,0.95,Nulos,no,Nulos
+01,53,0.04,Impugnados,no,Impugnados
+02,38865,43.00,Juntos por el Cambio,jxc,Patricia Bullrich
+02,20383,22.55,Juntos por el Cambio,jxc,Horacio R. Larreta
+02,9054,10.01,Unión por la Patria,up,Sergio Massa
+02,3828,4.23,Unión por la Patria,up,Juan Grabois
+02,12473,13.80,La Libertad Avanza,libertarios,Javier Milei
+02,2011,2.22,FIT-U,izquierda,Myriam Bregman
+02,467,0.52,FIT-U,izquierda,Gabriel Solano
+02,670,0.74,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+02,665,0.73,Principios y Valores,otros,Guillermo Moreno
+02,185,0.20,Nuevo MAS,izquierda,Manuela Castañeira
+02,141,0.15,MIJD,otros,Santiago Cúneo
+02,23,0.03,MIJD,otros,Raúl Castells
+02,116,0.12,Política Obrera,izquierda,Marcelo Ramal
+02,114,0.12,Libres del Sur,otros,Jesús Escobar
+02,82,0.09,Fte. Patriota Federal,otros,César Biondini
+02,70,0.07,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+02,58,0.06,Ucedé,otros,Andrés Passamonti
+02,1,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+02,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+02,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+02,1,0.01,Proyecto Joven,otros,Martín A. Ortiz
+02,0,0.00,Proyecto Joven,otros,Mempo Giardinelli
+02,0,0.00,Proyecto Joven,otros,Reina Ibañez
+02,1163,1.27,Blancos,no,Blancos
+02,561,0.61,Nulos,no,Nulos
+02,45,0.04,Impugnados,no,Impugnados
+03,24009,24.28,Juntos por el Cambio,jxc,Patricia Bullrich
+03,17741,17.94,Juntos por el Cambio,jxc,Horacio R. Larreta
+03,18475,18.69,Unión por la Patria,up,Sergio Massa
+03,7773,7.86,Unión por la Patria,up,Juan Grabois
+03,19510,19.73,La Libertad Avanza,libertarios,Javier Milei
+03,4210,4.25,FIT-U,izquierda,Myriam Bregman
+03,1018,1.03,FIT-U,izquierda,Gabriel Solano
+03,1445,1.46,Principios y Valores,otros,Guillermo Moreno
+03,984,0.99,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+03,521,0.52,Nuevo MAS,izquierda,Manuela Castañeira
+03,361,0.36,MIJD,otros,Santiago Cúneo
+03,98,0.10,MIJD,otros,Raúl Castells
+03,348,0.35,Política Obrera,izquierda,Marcelo Ramal
+03,238,0.24,Libres del Sur,otros,Jesús Escobar
+03,182,0.18,Fte. Patriota Federal,otros,César Biondini
+03,174,0.17,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+03,154,0.15,Ucedé,otros,Andrés Passamonti
+03,1,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+03,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+03,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+03,1,0.01,Proyecto Joven,otros,Martín A. Ortiz
+03,0,0.00,Proyecto Joven,otros,Mempo Giardinelli
+03,0,0.00,Proyecto Joven,otros,Reina Ibañez
+03,1621,1.62,Blancos,no,Blancos
+03,1059,1.05,Nulos,no,Nulos
+03,52,0.05,Impugnados,no,Impugnados
+04,23041,20.48,Juntos por el Cambio,jxc,Patricia Bullrich
+04,19008,16.90,Juntos por el Cambio,jxc,Horacio R. Larreta
+04,23111,20.54,Unión por la Patria,up,Sergio Massa
+04,9047,8.04,Unión por la Patria,up,Juan Grabois
+04,24587,21.85,La Libertad Avanza,libertarios,Javier Milei
+04,4383,3.89,FIT-U,izquierda,Myriam Bregman
+04,1521,1.35,FIT-U,izquierda,Gabriel Solano
+04,1755,1.56,Principios y Valores,otros,Guillermo Moreno
+04,1030,0.91,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+04,636,0.56,Nuevo MAS,izquierda,Manuela Castañeira
+04,419,0.37,MIJD,otros,Santiago Cúneo
+04,158,0.14,MIJD,otros,Raúl Castells
+04,457,0.40,Libres del Sur,otros,Jesús Escobar
+04,381,0.33,Política Obrera,izquierda,Marcelo Ramal
+04,284,0.25,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+04,268,0.23,Fte. Patriota Federal,otros,César Biondini
+04,216,0.19,Ucedé,otros,Andrés Passamonti
+04,7,0.01,Frente LIBER.AR,otros,Ramiro Vasena
+04,3,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+04,3,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+04,2,0.00,Proyecto Joven,otros,Mempo Giardinelli
+04,2,0.00,Proyecto Joven,otros,Reina Ibañez
+04,1,0.00,Proyecto Joven,otros,Martín A. Ortiz
+04,2170,1.9,Blancos,no,Blancos
+04,1262,1.1,Nulos,no,Nulos
+04,56,0.04,Impugnados,no,Impugnados
+05,24533,24.60,Juntos por el Cambio,jxc,Patricia Bullrich
+05,19326,19.38,Juntos por el Cambio,jxc,Horacio R. Larreta
+05,18787,18.83,Unión por la Patria,up,Sergio Massa
+05,8850,8.87,Unión por la Patria,up,Juan Grabois
+05,16393,16.43,La Libertad Avanza,libertarios,Javier Milei
+05,4758,4.77,FIT-U,izquierda,Myriam Bregman
+05,1091,1.09,FIT-U,izquierda,Gabriel Solano
+05,1454,1.45,Principios y Valores,otros,Guillermo Moreno
+05,1027,1.02,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+05,522,0.52,Nuevo MAS,izquierda,Manuela Castañeira
+05,332,0.33,MIJD,otros,Santiago Cúneo
+05,53,0.05,MIJD,otros,Raúl Castells
+05,317,0.31,Política Obrera,izquierda,Marcelo Ramal
+05,210,0.21,Libres del Sur,otros,Jesús Escobar
+05,165,0.16,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+05,163,0.16,Fte. Patriota Federal,otros,César Biondini
+05,103,0.10,Ucedé,otros,Andrés Passamonti
+05,6,0.01,Frente LIBER.AR,otros,Ramiro Vasena
+05,2,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+05,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+05,6,0.01,Proyecto Joven,otros,Reina Ibañez
+05,1,0.00,Proyecto Joven,otros,Mempo Giardinelli
+05,0,0.00,Proyecto Joven,otros,Martín A. Ortiz
+05,1626,1.61,Blancos,no,Blancos
+05,954,0.94,Nulos,no,Nulos
+05,62,0.06,Impugnados,no,Impugnados
+06,33954,30.01,Juntos por el Cambio,jxc,Patricia Bullrich
+06,24300,21.48,Juntos por el Cambio,jxc,Horacio R. Larreta
+06,18351,16.22,Unión por la Patria,up,Sergio Massa
+06,8653,7.65,Unión por la Patria,up,Juan Grabois
+06,16146,14.27,La Libertad Avanza,libertarios,Javier Milei
+06,4680,4.13,FIT-U,izquierda,Myriam Bregman
+06,1007,0.89,FIT-U,izquierda,Gabriel Solano
+06,1432,1.26,Principios y Valores,otros,Guillermo Moreno
+06,1069,0.94,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+06,485,0.42,Nuevo MAS,izquierda,Manuela Castañeira
+06,297,0.26,MIJD,otros,Santiago Cúneo
+06,44,0.04,MIJD,otros,Raúl Castells
+06,261,0.23,Política Obrera,izquierda,Marcelo Ramal
+06,166,0.14,Libres del Sur,otros,Jesús Escobar
+06,154,0.13,Fte. Patriota Federal,otros,César Biondini
+06,152,0.13,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+06,109,0.09,Ucedé,otros,Andrés Passamonti
+06,6,0.01,Proyecto Joven,otros,Reina Ibañez
+06,2,0.00,Proyecto Joven,otros,Mempo Giardinelli
+06,0,0.00,Proyecto Joven,otros,Martín A. Ortiz
+06,4,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+06,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+06,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+06,1825,1.59,Blancos,no,Blancos
+06,944,0.82,Nulos,no,Nulos
+06,70,0.06,Impugnados,no,Impugnados
+07,29637,24.93,Juntos por el Cambio,jxc,Patricia Bullrich
+07,21981,18.49,Juntos por el Cambio,jxc,Horacio R. Larreta
+07,21437,18.02,Unión por la Patria,up,Sergio Massa
+07,8626,7.25,Unión por la Patria,up,Juan Grabois
+07,24100,20.27,La Libertad Avanza,libertarios,Javier Milei
+07,4653,3.91,FIT-U,izquierda,Myriam Bregman
+07,1261,1.06,FIT-U,izquierda,Gabriel Solano
+07,1678,1.41,Principios y Valores,otros,Guillermo Moreno
+07,1213,1.02,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+07,562,0.47,Nuevo MAS,izquierda,Manuela Castañeira
+07,401,0.33,MIJD,otros,Santiago Cúneo
+07,98,0.08,MIJD,otros,Raúl Castells
+07,356,0.29,Política Obrera,izquierda,Marcelo Ramal
+07,261,0.21,Libres del Sur,otros,Jesús Escobar
+07,212,0.17,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+07,196,0.16,Fte. Patriota Federal,otros,César Biondini
+07,183,0.15,Ucedé,otros,Andrés Passamonti
+07,2,0.01,Proyecto Joven,otros,Martín A. Ortiz
+07,1,0.00,Proyecto Joven,otros,Mempo Giardinelli
+07,0,0.00,Proyecto Joven,otros,Reina Ibañez
+07,1,0.01,Frente LIBER.AR,otros,Ramiro Vasena
+07,0,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+07,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+07,2017,1.67,Blancos,no,Blancos
+07,1199,0.99,Nulos,no,Nulos
+07,81,0.06,Impugnados,no,Impugnados
+08,15318,16.51,Juntos por el Cambio,jxc,Patricia Bullrich
+08,14319,15.44,Juntos por el Cambio,jxc,Horacio R. Larreta
+08,20681,22.30,Unión por la Patria,up,Sergio Massa
+08,6122,6.60,Unión por la Patria,up,Juan Grabois
+08,25504,27.49,La Libertad Avanza,libertarios,Javier Milei
+08,3090,3.32,FIT-U,izquierda,Myriam Bregman
+08,1250,1.34,FIT-U,izquierda,Gabriel Solano
+08,1484,1.59,Principios y Valores,otros,Guillermo Moreno
+08,686,0.73,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+08,517,0.55,Libres del Sur,otros,Jesús Escobar
+08,350,0.37,MIJD,otros,Santiago Cúneo
+08,118,0.13,MIJD,otros,Raúl Castells
+08,458,0.49,Nuevo MAS,izquierda,Manuela Castañeira
+08,281,0.30,Política Obrera,izquierda,Marcelo Ramal
+08,251,0.27,Ucedé,otros,Andrés Passamonti
+08,246,0.26,Fte. Patriota Federal,otros,César Biondini
+08,213,0.22,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+08,3,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+08,1,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+08,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+08,1,0.01,Proyecto Joven,otros,Mempo Giardinelli
+08,0,0.00,Proyecto Joven,otros,Martín A. Ortiz
+08,0,0.00,Proyecto Joven,otros,Reina Ibañez
+08,1855,1.97,Blancos,no,Blancos
+08,1155,1.22,Nulos,no,Nulos
+08,101,0.1,Impugnados,no,Impugnados
+09,23425,23.44,Juntos por el Cambio,jxc,Patricia Bullrich
+09,16959,16.97,Juntos por el Cambio,jxc,Horacio R. Larreta
+09,18811,18.83,Unión por la Patria,up,Sergio Massa
+09,6881,6.89,Unión por la Patria,up,Juan Grabois
+09,22158,22.18,La Libertad Avanza,libertarios,Javier Milei
+09,3696,3.69,FIT-U,izquierda,Myriam Bregman
+09,1119,1.12,FIT-U,izquierda,Gabriel Solano
+09,1828,1.82,Principios y Valores,otros,Guillermo Moreno
+09,974,0.97,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+09,520,0.52,Nuevo MAS,izquierda,Manuela Castañeira
+09,389,0.38,MIJD,otros,Santiago Cúneo
+09,107,0.11,MIJD,otros,Raúl Castells
+09,327,0.32,Política Obrera,izquierda,Marcelo Ramal
+09,273,0.27,Libres del Sur,otros,Jesús Escobar
+09,216,0.21,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+09,206,0.20,Fte. Patriota Federal,otros,César Biondini
+09,196,0.19,Ucedé,otros,Andrés Passamonti
+09,4,0.01,Proyecto Joven,otros,Mempo Giardinelli
+09,1,0.00,Proyecto Joven,otros,Martín A. Ortiz
+09,0,0.00,Proyecto Joven,otros,Reina Ibañez
+09,3,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+09,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+09,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+09,1799,1.78,Blancos,no,Blancos
+09,1068,1.05,Nulos,no,Nulos
+09,44,0.04,Impugnados,no,Impugnados
+10,26246,25.66,Juntos por el Cambio,jxc,Patricia Bullrich
+10,19522,19.09,Juntos por el Cambio,jxc,Horacio R. Larreta
+10,17513,17.12,Unión por la Patria,up,Sergio Massa
+10,7525,7.36,Unión por la Patria,up,Juan Grabois
+10,19447,19.01,La Libertad Avanza,libertarios,Javier Milei
+10,4194,4.10,FIT-U,izquierda,Myriam Bregman
+10,1070,1.04,FIT-U,izquierda,Gabriel Solano
+10,1683,1.64,Principios y Valores,otros,Guillermo Moreno
+10,1074,1.05,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+10,541,0.52,Nuevo MAS,izquierda,Manuela Castañeira
+10,362,0.35,MIJD,otros,Santiago Cúneo
+10,80,0.08,MIJD,otros,Raúl Castells
+10,282,0.27,Política Obrera,izquierda,Marcelo Ramal
+10,231,0.22,Libres del Sur,otros,Jesús Escobar
+10,201,0.19,Fte. Patriota Federal,otros,César Biondini
+10,186,0.18,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+10,136,0.13,Ucedé,otros,Andrés Passamonti
+10,2,0.01,Proyecto Joven,otros,Martín A. Ortiz
+10,0,0.00,Proyecto Joven,otros,Mempo Giardinelli
+10,0,0.00,Proyecto Joven,otros,Reina Ibañez
+10,0,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+10,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+10,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+10,1977,1.91,Blancos,no,Blancos
+10,1066,1.03,Nulos,no,Nulos
+10,65,0.06,Impugnados,no,Impugnados
+11,35194,28.48,Juntos por el Cambio,jxc,Patricia Bullrich
+11,25084,20.30,Juntos por el Cambio,jxc,Horacio R. Larreta
+11,19680,15.93,Unión por la Patria,up,Sergio Massa
+11,9077,7.35,Unión por la Patria,up,Juan Grabois
+11,21371,17.29,La Libertad Avanza,libertarios,Javier Milei
+11,4804,3.89,FIT-U,izquierda,Myriam Bregman
+11,1152,0.93,FIT-U,izquierda,Gabriel Solano
+11,1671,1.35,Principios y Valores,otros,Guillermo Moreno
+11,1141,0.92,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+11,558,0.45,Nuevo MAS,izquierda,Manuela Castañeira
+11,369,0.30,MIJD,otros,Santiago Cúneo
+11,80,0.06,MIJD,otros,Raúl Castells
+11,333,0.26,Política Obrera,izquierda,Marcelo Ramal
+11,227,0.18,Libres del Sur,otros,Jesús Escobar
+11,220,0.17,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+11,181,0.14,Fte. Patriota Federal,otros,César Biondini
+11,174,0.14,Ucedé,otros,Andrés Passamonti
+11,41,0.03,Frente LIBER.AR,otros,Julio Bárbaro
+11,2,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+11,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+11,6,0.01,Proyecto Joven,otros,Reina Ibañez
+11,3,0.00,Proyecto Joven,otros,Martín A. Ortiz
+11,2,0.00,Proyecto Joven,otros,Mempo Giardinelli
+11,2160,1.72,Blancos,no,Blancos
+11,1316,1.05,Nulos,no,Nulos
+11,52,0.04,Impugnados,no,Impugnados
+12,38660,28.55,Juntos por el Cambio,jxc,Patricia Bullrich
+12,30050,22.19,Juntos por el Cambio,jxc,Horacio R. Larreta
+12,20973,15.49,Unión por la Patria,up,Sergio Massa
+12,10017,7.40,Unión por la Patria,up,Juan Grabois
+12,21857,16.14,La Libertad Avanza,libertarios,Javier Milei
+12,5054,3.73,FIT-U,izquierda,Myriam Bregman
+12,1165,0.86,FIT-U,izquierda,Gabriel Solano
+12,1871,1.38,Principios y Valores,otros,Guillermo Moreno
+12,1358,1.00,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+12,509,0.37,Nuevo MAS,izquierda,Manuela Castañeira
+12,409,0.30,MIJD,otros,Santiago Cúneo
+12,86,0.06,MIJD,otros,Raúl Castells
+12,335,0.24,Política Obrera,izquierda,Marcelo Ramal
+12,241,0.17,Libres del Sur,otros,Jesús Escobar
+12,196,0.14,Fte. Patriota Federal,otros,César Biondini
+12,184,0.13,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+12,131,0.09,Ucedé,otros,Andrés Passamonti
+12,3,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+12,1,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+12,1,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+12,1,0.00,Proyecto Joven,otros,Mempo Giardinelli
+12,1,0.00,Proyecto Joven,otros,Martín A. Ortiz
+12,1,0.00,Proyecto Joven,otros,Reina Ibañez
+12,2270,1.65,Blancos,no,Blancos
+12,1323,0.96,Nulos,no,Nulos
+12,57,0.04,Impugnados,no,Impugnados
+13,54619,36.52,Juntos por el Cambio,jxc,Patricia Bullrich
+13,36953,24.71,Juntos por el Cambio,jxc,Horacio R. Larreta
+13,16894,11.29,Unión por la Patria,up,Sergio Massa
+13,8474,5.66,Unión por la Patria,up,Juan Grabois
+13,20535,13.73,La Libertad Avanza,libertarios,Javier Milei
+13,4582,3.06,FIT-U,izquierda,Myriam Bregman
+13,811,0.54,FIT-U,izquierda,Gabriel Solano
+13,1470,0.98,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+13,1298,0.86,Principios y Valores,otros,Guillermo Moreno
+13,420,0.28,Nuevo MAS,izquierda,Manuela Castañeira
+13,278,0.18,MIJD,otros,Santiago Cúneo
+13,70,0.05,MIJD,otros,Raúl Castells
+13,255,0.17,Política Obrera,izquierda,Marcelo Ramal
+13,161,0.10,Libres del Sur,otros,Jesús Escobar
+13,149,0.09,Fte. Patriota Federal,otros,César Biondini
+13,147,0.09,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+13,115,0.07,Ucedé,otros,Andrés Passamonti
+13,58,0.04,Frente LIBER.AR,otros,Julio Bárbaro
+13,2,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+13,1,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+13,4,0.01,Proyecto Joven,otros,Martín A. Ortiz
+13,2,0.00,Proyecto Joven,otros,Reina Ibañez
+13,1,0.00,Proyecto Joven,otros,Mempo Giardinelli
+13,2249,1.49,Blancos,no,Blancos
+13,1117,0.74,Nulos,no,Nulos
+13,56,0.03,Impugnados,no,Impugnados
+14,52534,37.94,Juntos por el Cambio,jxc,Patricia Bullrich
+14,32685,23.60,Juntos por el Cambio,jxc,Horacio R. Larreta
+14,16653,12.02,Unión por la Patria,up,Sergio Massa
+14,7748,5.59,Unión por la Patria,up,Juan Grabois
+14,18612,13.44,La Libertad Avanza,libertarios,Javier Milei
+14,3798,2.74,FIT-U,izquierda,Myriam Bregman
+14,727,0.52,FIT-U,izquierda,Gabriel Solano
+14,1218,0.87,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+14,1180,0.85,Principios y Valores,otros,Guillermo Moreno
+14,338,0.24,Nuevo MAS,izquierda,Manuela Castañeira
+14,242,0.17,MIJD,otros,Santiago Cúneo
+14,67,0.05,MIJD,otros,Raúl Castells
+14,229,0.16,Política Obrera,izquierda,Marcelo Ramal
+14,183,0.13,Libres del Sur,otros,Jesús Escobar
+14,138,0.09,Fte. Patriota Federal,otros,César Biondini
+14,109,0.07,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+14,93,0.06,Ucedé,otros,Andrés Passamonti
+14,3,0.01,Frente LIBER.AR,otros,Ramiro Vasena
+14,1,0.00,Frente LIBER.AR,otros,Nazareno Etchepare
+14,0,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+14,1,0.01,Proyecto Joven,otros,Mempo Giardinelli
+14,0,0.00,Proyecto Joven,otros,Martín A. Ortiz
+14,0,0.00,Proyecto Joven,otros,Reina Ibañez
+14,1882,1.34,Blancos,no,Blancos
+14,908,0.65,Nulos,no,Nulos
+14,48,0.03,Impugnados,no,Impugnados
+15,24715,24.63,Juntos por el Cambio,jxc,Patricia Bullrich
+15,19828,19.76,Juntos por el Cambio,jxc,Horacio R. Larreta
+15,18441,18.38,Unión por la Patria,up,Sergio Massa
+15,9840,9.81,Unión por la Patria,up,Juan Grabois
+15,15690,15.63,La Libertad Avanza,libertarios,Javier Milei
+15,4927,4.91,FIT-U,izquierda,Myriam Bregman
+15,1013,1.01,FIT-U,izquierda,Gabriel Solano
+15,1400,1.39,Principios y Valores,otros,Guillermo Moreno
+15,1002,0.99,Hacemos por Nuestro País,peronismo,Juan Schiaretti
+15,450,0.44,Nuevo MAS,izquierda,Manuela Castañeira
+15,341,0.33,Política Obrera,izquierda,Marcelo Ramal
+15,261,0.25,MIJD,otros,Santiago Cúneo
+15,70,0.07,MIJD,otros,Raúl Castells
+15,212,0.21,Libres del Sur,otros,Jesús Escobar
+15,189,0.18,Movimiento de Acción Vecinal,otros,Raúl Albarracín
+15,149,0.14,Fte. Patriota Federal,otros,César Biondini
+15,126,0.12,Ucedé,otros,Andrés Passamonti
+15,14,0.01,Frente LIBER.AR,otros,Nazareno Etchepare
+15,1,0.00,Frente LIBER.AR,otros,Julio Bárbaro
+15,0,0.00,Frente LIBER.AR,otros,Ramiro Vasena
+15,3,0.01,Proyecto Joven,otros,Martín A. Ortiz
+15,1,0.00,Proyecto Joven,otros,Mempo Giardinelli
+15,0,0.00,Proyecto Joven,otros,Reina Ibañez
+15,1641,1.61,Blancos,no,Blancos
+15,1054,1.03,Nulos,no,Nulos
+15,73,0.07,Impugnados,no,Impugnados
